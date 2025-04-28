@@ -1,6 +1,7 @@
 # 0xLumpy
 
 **Cybersecurity enthusiast.**  
+
 Focused on ethical hacking, bug bounty hunting, and continuous learning.  
 Currently building and learning... more coming soon!
 
