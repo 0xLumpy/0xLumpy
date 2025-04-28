@@ -5,14 +5,13 @@ Focused on ethical hacking, bug bounty hunting, and continuous learning.
 Currently building and learning... more coming soon!
 
 ---
-<img src="/assets/work_in_progress.PNG" width="600px"> 
-
+![Work In Progress](/assets/work_in_progress.PNG)
 ![In Development](https://img.shields.io/badge/Status-Under%20Construction-orange)
 ---
 > **_Encrypt everything, except your humor._**
 <!--
 **0xLumpy/0xLumpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="/assets/work_in_progress.PNG" width="600px"> 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
